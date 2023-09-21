@@ -1,7 +1,7 @@
 ---
 title: thrust and lift
 ---
-Aeronáutica, tecnología, electrónica, programación...
+Aeronáutica, tecnología, electrónica, programación
 ___
 ### Índice de entradas
 - [[«Houston, Tranquility Base here. The Eagle has landed.»]]
