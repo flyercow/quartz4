@@ -1,18 +1,11 @@
 ---
-title: Welcome to Quartz
+title: thrust and lift
 ---
-Esto es una prueba rápida de cómo funciona quartz. Probandao
-[[La fundación]]
-asdf
-agsd
-agsd
-a
-g
+Aeronáutica, tecnología, electrónica, programación...
 ___
-La segunda ley de Newton:
-$F = m*a$
-
-![[Pasted image 20230918221210.png]]
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
+### Índice de entradas
+- [[«Houston, Tranquility Base here. The Eagle has landed.»]]
+- [[La fundación]]
+___
+### About
+Me llamo Sergio Vigorra, soy ingeniero industrial y me gusta escribir de las cosas que me gustan. 
